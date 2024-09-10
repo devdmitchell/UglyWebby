@@ -1,0 +1,66 @@
+body {
+    background-color: red;
+    /* padding: 50px;
+} */
+
+
+
+h1 {
+    color: #CCC;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    background-color: aqua;
+}
+
+p {
+    color: blue;
+    background-color: black;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    margin: 0 0 24px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+textarea {
+    background-color: purple;
+    margin: 20px;
+    width: 300px;
+    height: 150px;
+}
+
+ul, ol {
+
+    margin: 20px;
+    padding: 0;
+}
+
+li {
+    background-color: yellowgreen;
+    color: orange;
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ff0b9a;
+}
+   
+li:last-child {
+    border: none;
+}
+
+form {
+    height:110px;
+    width:190px;
+    margin:auto;
+    border:1px #fc06ef solid;
+    padding:10px;
+}
+    
+input, textarea {
+    padding:5px;
+    margin:5px
+
+}
